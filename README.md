@@ -1,2 +1,2 @@
 # phoenix
-Rule engine
+Rule engine written in python language
